@@ -74,7 +74,7 @@ img {
 
 /* hero */
 .section-hero {
-    background: url(/src/img/img.jpg)right center no-repeat white;
+    background: url(img/img.jpg)right center no-repeat white;
     background-size: contain;
     
 }
