@@ -74,7 +74,7 @@ img {
 
 /* hero */
 .section-hero {
-    background: url(img/img.jpg)right center no-repeat white;
+    background: url(img/img.png)right center no-repeat white;
     background-size: contain;
     
 }
@@ -232,13 +232,13 @@ img {
 }
 
 .section-contacts-icon-gps {
-    background-image: url(/src/img/gps.png);
+    background-image: url(img/gps.png);
 }
 .section-contacts-icon-phone {
-    background-image: url(/src/img/phone.png);
+    background-image: url(img/phone.png);
 }
 .section-contacts-icon-mail {
-    background-image: url(/src/img/mail.png);
+    background-image: url(img/mail.png);
 }
 
 .section-contacts-heading-descr {
